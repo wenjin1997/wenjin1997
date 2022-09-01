@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/wenjin1997/wenjin1997/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/wenjin1997/wenjin1997/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 🌱 I’m currently learning `Rust`
+
 - ✈️ Open to Remote Job Opportunities 🍻
+
 - 📫 How to reach me: wenjinsmail@163.com

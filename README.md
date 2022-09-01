@@ -19,8 +19,9 @@ My name is ***Wenjin Xie***
 
 - 🌱 I’m currently learning `Rust`
 
-- 📫 How to reach me: wenjinsmail@163.com
+- :ghost: My blog: []()
 
+- 📫 How to reach me: wenjinsmail@163.com
 
 
 ![](https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)

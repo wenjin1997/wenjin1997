@@ -19,8 +19,6 @@ My name is ***Wenjin Xie***
 
 - 🌱 I’m currently learning `Rust`
 
-- ✈️ Open to Remote Job Opportunities 🍻
-
 - 📫 How to reach me: wenjinsmail@163.com
 
 

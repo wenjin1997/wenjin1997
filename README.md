@@ -19,7 +19,7 @@ My name is ***Wenjin Xie***
 
 - 🌱 I’m currently learning `Rust`
 
-- :ghost: My blog: []()
+- :ghost: My blog: [Oshawott's QQ Zone](https://wenjin1997.github.io/)
 
 - 📫 How to reach me: wenjinsmail@163.com
 

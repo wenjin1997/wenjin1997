@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is ***Wenjin Xie***
+My name is ***Wenjin Xie***. 
 
-- 🌱 I’m currently learning `Rust`
+- ⚡ My major is **mathematics**.
 
-- :ghost: My blog: [Oshawott's QQ Zone](https://wenjin1997.github.io/)
+- 🌱 I’m currently learning `Rust` and `ZKP`.
+
+- :ghost: My blog: [Wenjin Blog](https://wenjin1997.github.io/)
 
 - 📫 How to reach me: wenjinsmail@163.com
 

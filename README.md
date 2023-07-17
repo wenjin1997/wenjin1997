@@ -27,10 +27,10 @@ My name is ***Wenjin Xie***.
 
 
 
+### My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
-
-![](https://raw.githubusercontent.com/wenjin1997/wenjin1997/main/assets/github-contribution-grid-snake.svg)
+| <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wenjin1997's github stats" /></a> | <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjin1997&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <!--
@@ -43,7 +43,9 @@ My name is ***Wenjin Xie***.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/wenjin1997/wenjin1997/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/wenjin1997/wenjin1997/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 
+![](https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 
-| <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wenjin1997's github stats" /></a> | <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjin1997&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![](https://raw.githubusercontent.com/wenjin1997/wenjin1997/main/assets/github-contribution-grid-snake.svg)
+
+
 

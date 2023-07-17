@@ -29,7 +29,7 @@ My name is ***Wenjin Xie***.
 
 ### My GitHub Stats
 
-| <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wenjin1997's github stats" /></a> | <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjin1997&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wenjin1997&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wenjin1997's github stats" /></a> | <a href="https://github.com/wenjin1997/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenjin1997&layout=compact&theme=buefy&hide_border=true&hide=html,Makefile,css" /></a> |
 | ------------- | ------------- |
 
 

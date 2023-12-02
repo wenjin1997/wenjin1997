@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is ***Wenjin Xie***. 
+My name is ***Jade***. 
 
 - ⚡ My major is **mathematics**.
 
